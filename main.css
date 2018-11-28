@@ -15,12 +15,17 @@ h1{
 h2{
      color: #571133;
 }
+.inicio{
+    margin-left: 30px;
+}
 
 #uno{
-     background-color:#900C3E;
-     height: 300px;
-     width: 300px;
-     margin-left: 600px;
-     padding: 4px;
+     
+      display: inline;
 }
+
+#dos{
+    
+    display: inline;
+    }
 
