@@ -1,0 +1,26 @@
+body{
+ background-color: black;
+ color: white;
+}
+
+h1,h2{
+
+    text-align: center;
+
+}
+
+h1{
+    color:#38001C;
+}
+h2{
+     color: #571133;
+}
+
+#uno{
+     background-color:#900C3E;
+     height: 300px;
+     width: 300px;
+     margin-left: 600px;
+     padding: 4px;
+}
+
